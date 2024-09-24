@@ -8,7 +8,7 @@
 
 🚀 Currently working on building scalable data solutions and using advanced analytics to solve real-world problems.
 
-<h3 align="center">MY STACK:</h3>
+<h3 align="center">My Stack:</h3>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
