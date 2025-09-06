@@ -2,9 +2,9 @@
 
 ## Data Scientist & Engineer
 
-👨🏻‍💻 MSc in Statistics with Data Science graduate from The University of Edinburgh
-
 🔬 Data Scientist at Penta Group with expertise in machine learning, cloud technologies, and predictive modeling
+
+👨🏻‍💻 MSc in Statistics with Data Science graduate from The University of Edinburgh
 
 💡 Passionate about implementing end-to-end data solutions using Python, AWS, and advanced analytics
 
