@@ -1,96 +1,56 @@
 # Aman Syed
 
-## Data Scientist & Engineer
+**AI/ML Engineer & Data Scientist** — building production-grade LLM systems and ML pipelines on AWS
 
-🔬 Data Scientist at Penta Group with expertise in machine learning, cloud technologies, and predictive modeling
-
-👨🏻‍💻 MSc in Statistics with Data Science graduate from The University of Edinburgh
-
-💡 Passionate about implementing end-to-end data solutions using Python, AWS, and advanced analytics
-
-🚀 Currently working on fine-tuning models and developing scalable ML pipelines
+- 🏢 Associate Data Scientist at **Penta Group**, London
+- 🎓 MSc Statistics with Data Science — **The University of Edinburgh**
+- ☁️ Specialising in **RAG architectures**, **multi-agent orchestration**, **GPU-accelerated inference**, and **vector search**
+- 🔧 Core stack: Python · PyTorch · FastAPI · Docker · PostgreSQL · SageMaker
 
 ---
 
-## Professional Profile
+## What I've shipped
 
-Data Scientist and Engineer with expertise in machine learning, cloud technologies, and predictive modeling. Demonstrated success in implementing end-to-end data solutions using Python, AWS, and advanced analytics. Proven track record of optimizing workflows and developing scalable ML models that drive business value.
-
----
-
-## Technical Expertise
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-### Data Science & ML
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
+- **95% reduction** in manual transcript analysis (20 hrs → under 5 min) via multi-agent NLP pipeline with 3-LLM consensus
+- **2–3 million** daily articles processed through GPU-accelerated NLP pipeline on AWS ECS
+- **3x throughput improvement** deploying BERT models as serverless SageMaker endpoints with dynamic batching
+- **92% precision** in quote extraction using a 3-stage LLM pipeline with composite quality scoring
+- **71% weighted F1** on sentiment classification across 33+ prompt configurations and 6 LLMs
+- **5x faster** file ingestion via chunked-transfer upload system over parallel WebSockets
 
 ---
 
-## Professional Experience
+## Tech stack
 
-### Data Science Developer | Penta Group, London
-*October 2024 - Present*
-- Designed secure architecture for credential management and environment-specific configurations
-- Researched and fine-tuned Llama models (3.1 8B, 3.2 1B, 3.2 3B) for sentiment analysis
-- Developed robust data pipelines integrating database sources with text analysis frameworks
-- Enhanced text analysis capability for longer-form content and deployed on AWS SageMaker
+**LLMs & AI** &nbsp;·&nbsp; OpenAI GPT · Google Gemini · Anthropic Claude · RAG · LLM Fine-tuning · Prompt Engineering · HuggingFace Transformers
 
-### Financial Research Assistant | University of Edinburgh Business School
-*September 2024 - October 2024*
-- Automated financial data retrieval through Refinitiv API
-- Analyzed earnings call transcripts using advanced text and sentiment analysis
+**ML / NLP** &nbsp;·&nbsp; PyTorch · SpaCy · BERT · GLiNER · Gensim · Scikit-learn · Sentence Embeddings · Model Evaluation
 
-### Data Engineer Intern | C.H. Robinson, Mumbai
-*December 2022 - August 2023*
-- Designed and implemented a serverless data pipeline on AWS to handle 100K daily API records, improving data availability and system reliability
-- Automated workflow processes using Selenium and Python scripts, saving over 90 monthly engineering hours and doubling data capture capacity
-- Revamped logistics reporting by automating daily client report generation, increasing output to 20+ reports daily and boosting client satisfaction
-- Optimized over 200 AWS Lambda functions with advanced SQL queries and Python code, improving data processing efficiency by 40%
-- Engaged in Agile methodology with daily scrums and two-week sprint cycles, ensuring timely project delivery across development, staging, and production phases
-- Collaborated with the Site Reliability Engineering (SRE) team to maintain infrastructure and application reliability and efficiency
+**Cloud (AWS)** &nbsp;·&nbsp; SageMaker · ECS · Lambda · S3 · SQS · API Gateway · CloudWatch · SSM Parameter Store
+
+**MLOps** &nbsp;·&nbsp; Docker · CI/CD · Inference Optimisation · Production ML Serving · Git
+
+**Databases** &nbsp;·&nbsp; PostgreSQL (pgvector) · MySQL · MongoDB
+
+**Languages** &nbsp;·&nbsp; Python · SQL · JavaScript · R · Java
 
 ---
 
-## Education
+## Experience
 
-### MSc Statistics with Data Science
-*The University of Edinburgh | 2023-2024*
+**Associate Data Scientist** · Penta Group, London · Oct 2024 – Present
 
-### BEng Computer Engineering
-*University of Mumbai | 2019-2023 | 9.83/10 CGPA*
+**Financial Research Assistant** · University of Edinburgh Business School · Sep – Oct 2024
+
+**Data Engineer Intern** · C.H. Robinson, Mumbai · Dec 2022 – Aug 2023
 
 ---
 
 ## Certifications
-- Architecting with Google Compute Engine Specialization – Google Cloud
-- Machine Learning Foundations: A Case Study Approach – University of Washington
-- Python Data Structure – Coursera Project Network
+
+- Architecting with Google Compute Engine Specialization — Google Cloud
+- Machine Learning Foundations: A Case Study Approach — University of Washington
 
 ---
 
-## Let's Connect!
-
-- 📧 Email: [amansyed3342@gmail.com](mailto:amansyed3342@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/amannsyed](https://linkedin.com/in/amannsyed)
-- 📱 Phone: Available upon request
-
----
+📧 amansyed3342@gmail.com &nbsp;·&nbsp; 🔗 [linkedin.com/in/amannsyed](https://linkedin.com/in/amannsyed)
