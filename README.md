@@ -1,6 +1,6 @@
 # Aman Syed
 
-**AI/ML Engineer & Data Scientist** — building production-grade LLM systems and ML pipelines on AWS
+**AI/ML Engineer & Data Scientist** — building production LLM systems with context engineering, RAG, and GPU-accelerated inference on AWS
 
 - 🏢 Associate Data Scientist at **Penta Group**, London
 - 🎓 MSc Statistics with Data Science — **The University of Edinburgh**
@@ -11,11 +11,14 @@
 
 ## What I've shipped
 
-- **95% reduction** in manual transcript analysis (20 hrs → under 5 min) via multi-agent NLP pipeline with 3-LLM consensus
+- **62% content reduction and 60% cost savings** via conversational RAG system with SSE streaming and entity/keyword-driven context engineering
 - **2–3 million** daily articles processed through GPU-accelerated NLP pipeline on AWS ECS
-- **3x throughput improvement** deploying BERT models as serverless SageMaker endpoints with dynamic batching
+- **3-strategy hybrid search engine** fusing vector, full-text, and NER entity search with reciprocal rank fusion
+- **5 AI-client tools** exposed via MCP server (hybrid search, vector search, entity search, RAG Q&A) over SSE
+- **95% reduction** in manual transcript analysis (20 hrs → under 5 min) via multi-agent NLP pipeline with 3-LLM consensus
 - **92% precision** in quote extraction using a 3-stage LLM pipeline with composite quality scoring
 - **71% weighted F1** on sentiment classification across 33+ prompt configurations and 6 LLMs
+- **3x throughput improvement** deploying BERT models as serverless SageMaker endpoints with dynamic batching
 - **5x faster** file ingestion via chunked-transfer upload system over parallel WebSockets
 
 ---
@@ -25,6 +28,8 @@
 **LLMs & AI** &nbsp;·&nbsp; OpenAI GPT · Google Gemini · Anthropic Claude · RAG · LLM Fine-tuning · Prompt Engineering · HuggingFace Transformers
 
 **ML / NLP** &nbsp;·&nbsp; PyTorch · SpaCy · BERT · GLiNER · Gensim · Scikit-learn · Sentence Embeddings · Model Evaluation
+
+**Frameworks** &nbsp;·&nbsp; FastAPI · Flask · Pydantic
 
 **Cloud (AWS)** &nbsp;·&nbsp; SageMaker · ECS · Lambda · S3 · SQS · API Gateway · CloudWatch · SSM Parameter Store
 
