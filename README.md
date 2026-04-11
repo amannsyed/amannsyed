@@ -7,6 +7,8 @@
 - ☁️ Specialising in **RAG architectures**, **multi-agent orchestration**, **GPU-accelerated inference**, and **vector search**
 - 🔧 Core stack: Python · PyTorch · FastAPI · Docker · PostgreSQL · SageMaker
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?logo=google-chrome&logoColor=white)](https://amannsyed.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/amannsyed)
+
 ---
 
 ## What I've shipped
@@ -23,21 +25,35 @@
 
 ---
 
-## Tech stack
+## Personal Projects
 
-**LLMs & AI** &nbsp;·&nbsp; OpenAI GPT · Google Gemini · Anthropic Claude · RAG · LLM Fine-tuning · Prompt Engineering · HuggingFace Transformers
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Finance Flow** | Full-stack personal finance tracker with analytics, budgets, dark mode, and Google Sheets sync. Backend auto-detects 6 UK bank CSV formats via Strategy Pattern. | React · TypeScript · FastAPI · Tailwind | [Live](https://amannsyed.github.io/finance-flow/) · [Frontend](https://github.com/amannsyed/finance-flow) · [Backend](https://github.com/amannsyed/convert_transaction) |
+| **Knock Knock Physio** | Production business website for a mobile physiotherapy practice — booking, WhatsApp integration, pricing, admin dashboard | React · TypeScript · Vite | [Live](https://knockknockphysio.co.uk/) · [Source](https://github.com/amannsyed/knock-knock-physio) |
+| **AI Job Application Assistant** | AI assistant for resume optimisation, interview prep, and application enhancement with PDF/DOCX processing | React · TypeScript · Gemini API | [Live](https://amannsyed.github.io/ai-job-application-assistant/) · [Source](https://github.com/amannsyed/ai-job-application-assistant) |
+| **AI Code Reviewer** | AI-powered code review tool — bug detection, quality assessment, and optimisation suggestions | React · TypeScript · Gemini API | [Live](https://amannsyed.github.io/ai-code-reviewer/) · [Source](https://github.com/amannsyed/ai-code-reviewer) |
+| **GCP Drive Manager** | Zero-backend Google Drive manager using browser Web Crypto API for client-side JWT signing | React · TypeScript · Web Crypto API | [Live](https://amannsyed.github.io/gcp-drive/) · [Source](https://github.com/amannsyed/gcp-drive) |
+
+---
+
+## Tech Stack
+
+**LLMs & AI** &nbsp;·&nbsp; OpenAI GPT · Google Gemini API · Anthropic Claude · RAG · LLM Fine-tuning · Prompt Engineering · HuggingFace Transformers · Multi-agent Orchestration
 
 **ML / NLP** &nbsp;·&nbsp; PyTorch · SpaCy · BERT · GLiNER · Gensim · Scikit-learn · Sentence Embeddings · Model Evaluation
 
-**Frameworks** &nbsp;·&nbsp; FastAPI · Flask · Pydantic
+**Frontend & Web** &nbsp;·&nbsp; React 19 · TypeScript · Vite · TailwindCSS · Recharts · Framer Motion
+
+**Backend & APIs** &nbsp;·&nbsp; FastAPI · Flask · Pydantic · REST APIs
 
 **Cloud (AWS)** &nbsp;·&nbsp; SageMaker · ECS · Lambda · S3 · SQS · API Gateway · CloudWatch · SSM Parameter Store
 
-**MLOps** &nbsp;·&nbsp; Docker · CI/CD · Inference Optimisation · Production ML Serving · Git
+**MLOps & DevOps** &nbsp;·&nbsp; Docker · CI/CD · GitHub Actions · GitHub Pages · Render · Inference Optimisation · Production ML Serving
 
 **Databases** &nbsp;·&nbsp; PostgreSQL (pgvector) · MySQL · MongoDB
 
-**Languages** &nbsp;·&nbsp; Python · SQL · JavaScript · R · Java
+**Languages** &nbsp;·&nbsp; Python · SQL · TypeScript · JavaScript · R · Java
 
 ---
 
@@ -58,4 +74,4 @@
 
 ---
 
-📧 amansyed3342@gmail.com &nbsp;·&nbsp; 🔗 [linkedin.com/in/amannsyed](https://linkedin.com/in/amannsyed)
+📧 [amansyed3342@gmail.com](mailto:amansyed3342@gmail.com) &nbsp;·&nbsp; 🔗 [linkedin.com/in/amannsyed](https://linkedin.com/in/amannsyed) &nbsp;·&nbsp; 🌐 [amannsyed.github.io](https://amannsyed.github.io)
