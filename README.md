@@ -1,31 +1,31 @@
 # Aman Syed
 
-**AI/ML Engineer & Data Scientist** — building production LLM systems with context engineering, RAG, and GPU-accelerated inference on AWS
+**AI/ML Engineer & Data Scientist** — building production AI platforms, hybrid search systems, and LLM pipelines on AWS
 
-- 🏢 Associate Data Scientist at **Penta Group**, London
+- 🏢 AI/ML Engineer at **Penta Group**, London
 - 🎓 MSc Statistics with Data Science — **The University of Edinburgh**
-- ☁️ Specialising in **RAG architectures**, **multi-agent orchestration**, **GPU-accelerated inference**, and **vector search**
-- 🔧 Core stack: Python · PyTorch · FastAPI · Docker · PostgreSQL · SageMaker
+- ☁️ Specialising in **hybrid search**, **RAG architectures**, **Synthetic AI personas**, **GPU-accelerated inference**, and **multi-agent orchestration**
+- 🔧 Core stack: Python · FastAPI · PostgreSQL/pgvector · PyTorch · Docker · Vertex AI · SageMaker
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?logo=google-chrome&logoColor=white)](https://amannsyed.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/amannsyed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?logo=google-chrome&logoColor=white)](https://amannsyed.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/amannsyed)
 
 ---
 
 ## What I've shipped
 
-- **62% content reduction and 60% cost savings** via conversational RAG system with SSE streaming and entity/keyword-driven context engineering
-- **2–3 million** daily articles processed through GPU-accelerated NLP pipeline on AWS ECS
-- **3-strategy hybrid search engine** fusing vector, full-text, and NER entity search with reciprocal rank fusion
-- **5 AI-client tools** exposed via MCP server (hybrid search, vector search, entity search, RAG Q&A) over SSE
-- **95% reduction** in manual transcript analysis (20 hrs → under 5 min) via multi-agent NLP pipeline with 3-LLM consensus
-- **92% precision** in quote extraction using a 3-stage LLM pipeline with composite quality scoring
-- **71% weighted F1** on sentiment classification across 33+ prompt configurations and 6 LLMs
-- **3x throughput improvement** deploying BERT models as serverless SageMaker endpoints with dynamic batching
-- **5x faster** file ingestion via chunked-transfer upload system over parallel WebSockets
+- **Penta Brain** — hybrid AI search combining pgvector (EmbeddingGemma-300m, 768-dim HNSW), PostgreSQL full-text search, and GLiNER NER with Reciprocal Rank Fusion, SSE-streamed chat, citation grounding, two-tier semantic cache, and JWT rate-limited FastAPI serving
+- **MCP Server** — 5 AI-client tools (hybrid search, vector search, entity search, RAG Q&A) over SSE with JWT auth, enabling external AI agents to query the article knowledge base
+- **GPU NLP Pipeline** — 2–3 million daily articles via SQS-driven GPU workers running GLiNER NER and EmbeddingGemma-300m; 30-day SHA256 deduplication, HNSW-indexed pgvector, AWS ECS
+- **Synthetic Stakeholders** — AI platform for persona simulation, artifact-grounded conversations, multi-persona debates, semantic search, and belief-state learning; 18 FastAPI routes, OpenAI Responses API streaming, 1,536-dim pgvector memory
+- **AI Insights Narrative** — 15-endpoint FastAPI platform generating source-linked, clustered LLM narratives for media intelligence cards; async embeddings with 500 in-flight tasks, KMeans/DBSCAN/MMR selection, 1,245 pytest tests
+- **Storyline Identification** — Dockerized GPT-4o API using OpenAI embeddings, UMAP, and HDBSCAN to cluster and refine narratives from up to 10,000 articles; SageMaker-compatible endpoints
+- **95% reduction** in manual transcript analysis (20 hrs → under 5 min) via multi-agent NLP pipeline with 3-LLM consensus speaker extraction and 3-stage quote pipeline achieving **92% precision**
+- **Sentiment Model Monitoring** — 71% weighted F1 across 33+ prompt configurations and 6 LLMs; F1/drift alerting via SES, 24 metrics persisted to PostgreSQL and S3
+- **3x throughput** deploying BERT models as serverless SageMaker endpoints with dynamic batching · **5x faster** file ingestion via chunked-transfer uploads over parallel WebSockets
 
 ---
 
-## Personal Projects
+## Featured Projects
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
@@ -39,19 +39,17 @@
 
 ## Tech Stack
 
-**LLMs & AI** &nbsp;·&nbsp; OpenAI GPT · Google Gemini API · Anthropic Claude · RAG · LLM Fine-tuning · Prompt Engineering · HuggingFace Transformers · Multi-agent Orchestration
+**LLMs & Gen AI** &nbsp;·&nbsp; OpenAI GPT-4/4.1 · Google Gemini 2.5 · Anthropic Claude · Vertex AI · RAG · LLM Fine-tuning · Prompt Engineering · HuggingFace Transformers · Multi-agent Orchestration · MCP Server
 
-**ML / NLP** &nbsp;·&nbsp; PyTorch · SpaCy · BERT · GLiNER · Gensim · Scikit-learn · Sentence Embeddings · Model Evaluation
+**ML / NLP** &nbsp;·&nbsp; PyTorch · SentenceTransformers · GLiNER · SpaCy · BERT · Gensim · LDA/NMF · UMAP · HDBSCAN · Scikit-learn · Sentence Embeddings
 
-**Frontend & Web** &nbsp;·&nbsp; React 19 · TypeScript · Vite · TailwindCSS · Recharts · Framer Motion
+**Search & Databases** &nbsp;·&nbsp; PostgreSQL (pgvector) · HNSW Indexes · Reciprocal Rank Fusion · Full-text Search (tsvector) · NER Entity Search · MySQL · MongoDB · SQLAlchemy
 
-**Backend & APIs** &nbsp;·&nbsp; FastAPI · Flask · Pydantic · REST APIs
+**Cloud (AWS)** &nbsp;·&nbsp; SageMaker · ECS · Lambda · S3 · SQS · API Gateway · CloudWatch · SSM Parameter Store · CodeBuild · CodePipeline · Vertex AI Agent Engine
 
-**Cloud (AWS)** &nbsp;·&nbsp; SageMaker · ECS · Lambda · S3 · SQS · API Gateway · CloudWatch · SSM Parameter Store
+**Backend & APIs** &nbsp;·&nbsp; FastAPI · Flask · Pydantic · SSE Streaming · NDJSON Streaming · Docker · Docker Compose · Poetry · pytest · CI/CD · GitHub Actions
 
-**MLOps & DevOps** &nbsp;·&nbsp; Docker · CI/CD · GitHub Actions · GitHub Pages · Render · Inference Optimisation · Production ML Serving
-
-**Databases** &nbsp;·&nbsp; PostgreSQL (pgvector) · MySQL · MongoDB
+**Frontend & Web** &nbsp;·&nbsp; React 19 · TypeScript · Vite · TailwindCSS · Recharts · Framer Motion · Voila · ipywidgets · Plotly
 
 **Languages** &nbsp;·&nbsp; Python · SQL · TypeScript · JavaScript · R · Java
 
@@ -59,7 +57,7 @@
 
 ## Experience
 
-**Associate Data Scientist** · Penta Group, London · Oct 2024 – Present
+**AI/ML Engineer & Data Scientist** · Penta Group, London · Oct 2024 – Present
 
 **Financial Research Assistant** · University of Edinburgh Business School · Sep – Oct 2024
 
@@ -74,4 +72,4 @@
 
 ---
 
-📧 [amansyed3342@gmail.com](mailto:amansyed3342@gmail.com) &nbsp;·&nbsp; 🔗 [linkedin.com/in/amannsyed](https://linkedin.com/in/amannsyed) &nbsp;·&nbsp; 🌐 [amannsyed.github.io](https://amannsyed.github.io)
+📧 [amansyed3342@gmail.com](mailto:amansyed3342@gmail.com) &nbsp;·&nbsp; 🔗 [linkedin.com/in/amannsyed](https://linkedin.com/in/amannsyed) &nbsp;·&nbsp; 🌐 [amannsyed.github.io/portfolio](https://amannsyed.github.io/portfolio/)
